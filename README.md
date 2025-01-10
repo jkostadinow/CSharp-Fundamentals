@@ -1,2 +1,2 @@
 # Fundanentals-C
-SoftUni
+C#
